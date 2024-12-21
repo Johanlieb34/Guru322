@@ -1,8 +1,8 @@
  
 <p align="center">  
-  <a href="https://github.com/Guru322">
-    <img alt="Guru" height="300" src="https://i.ibb.co/dW8DNtY/Blog-log.png">
-    <h1 align="center">Hy 👋 Guru Here</h1>
+  <a href="https://github.com/Johanlieb34">
+    <img alt="Guru" height="300" src="https://i.ibb.co/CbFHScz/6p.png">
+    <h1 align="center">Hey👋 King Johan's here</h1>
   </a>
 </p>
 <p align="center">
@@ -25,9 +25,9 @@
 ## My github stats 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johanlieb34/Johanlieb34/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johanlieb34/Johanlieb34/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Johanlieb34/Johanlieb34/output/github-contribution-grid-snake.svg">
 </picture>
 
 <p align="center">
@@ -37,7 +37,7 @@
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=Guru322&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Johanlieb34&theme=tokyonight"
     />
 </p>
 
